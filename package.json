@@ -1,24 +1,13 @@
 {
-  "name": "Fiony-MD",
-  "version": "8.0.0",
-  "description": "Automated whatsapp md bot created using nodejs and baileys lib",
-  "main": "index.js",
-  "type": "commonjs",
+  "name": "example-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "termux",
-    "whatsapp",
-    "2023",
-    "wabase-md",
-    "base",
-    "baileys-md",
-    "bot",
-    "bot-md",
-    "multi-device"
-  ],
-  "author": "DGXeon",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
